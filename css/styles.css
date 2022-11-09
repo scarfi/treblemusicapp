@@ -7,6 +7,7 @@ body {
 .container {
   width: 90%;
   margin: 10 auto;
+  margin-top: 10 auto;
 }
 header {
   background: #55d6aa;
