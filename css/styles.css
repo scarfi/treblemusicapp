@@ -7,7 +7,6 @@ body {
 .container {
   width: 90%;
   margin: 10 auto;
-  margin-top: 10 auto;
 }
 header {
   background: #55d6aa;
@@ -21,7 +20,7 @@ header::after {
 
 .logo {
   float: left;
-  padding-top: 10px 0;
+  padding-top: 25px 0;
 }
 nav {
   float: right;
