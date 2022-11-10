@@ -129,7 +129,7 @@ li {
 .logintext {
   margin: 0;
   padding: 0;
-  background: url(site_background.png);
+  background: url(../assets/site_background.png);
   background-size: cover;
   background-position: center;
   font-family: sans-serif;
