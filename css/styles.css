@@ -99,7 +99,7 @@ nav.footer_links li {
   display: inline-block;
   margin-right: 10px;
   margin-bottom: 10px;
-
+  text-decoration:none;
   position: relative;
 
 }
