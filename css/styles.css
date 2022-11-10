@@ -38,6 +38,11 @@ footer {
    width:100%;
 }
 
+footer::after {
+  content: '';
+  display: table;
+  clear: both;
+
 .logo {
   float: left;
   padding-top: 25px 25;
