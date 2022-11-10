@@ -11,11 +11,9 @@ body {
 }
 
 .footer_logo {
-  display: inline-block;
-  margin-left: 70px;
-  padding-top: 23px;
-
-  position: relative;
+  position:fixed;
+  right:10px;
+  bottom:-15px;
 }
 
 header {
