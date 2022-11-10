@@ -13,7 +13,7 @@ body {
 .footer_logo {
   position:fixed;
   right:10px;
-  bottom:0px;
+  bottom:-10px;
 }
 
 header {
