@@ -23,6 +23,7 @@ header::after {
 
 .logo {
   float: left;
+  padding-left: 25px 25;
   padding-top: 25px 25;
 }
 
