@@ -10,11 +10,9 @@ body {
   margin: 10 auto;
 }
 
-.footer_logo {
-  float:right;
-  position:relative;
-  right:10px;
-  bottom:10px;
+.logo {
+  float: left;
+  padding-top: 25px 25;
 }
 
 header {
@@ -28,20 +26,6 @@ header::after {
   content: '';
   display: table;
   clear: both;
-}
-
-footer {
-  background: #ffd966;
-  position:fixed;
-  left:0px;
-  bottom:0px;
-  height: 40px;
-  width:100%;
-}
-
-.logo {
-  float: left;
-  padding-top: 25px 25;
 }
 
 nav {
@@ -89,6 +73,23 @@ nav a::before {
 
 nav a:hover::before {
   width: 100%
+}
+
+footer {
+  background: #ffd966;
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height: 40px;
+  width:100%;
+}
+
+
+.footer_logo {
+  float:right;
+  position:relative;
+  right:10px;
+  bottom:10px;
 }
 
 h1 {
