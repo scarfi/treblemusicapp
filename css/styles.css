@@ -86,6 +86,7 @@ footer {
 
 nav.footer_links {
   float: right;
+  padding-right: 15px;
 }
 
 nav.footer_links ul {
