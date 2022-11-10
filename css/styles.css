@@ -1,15 +1,13 @@
 body {
-  margin: 0;
+  margin: 25px;
   background: #FFFFFF;
   font-family: 'Work Sans', sans-sans-serif;
   font-weight: 400;
-  margin-left: 25px;
-  margin-right: 25px;
 }
 
 .container {
-  width: 100%;
-  margin: 0 auto;
+  width: 90%;
+  margin: 10 auto;
 }
 
 header {
