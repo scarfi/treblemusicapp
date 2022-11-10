@@ -25,7 +25,11 @@ header::after {
 
 footer {
   background: #ffff99;
-  bottom: 0px;
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
 }
 
 .logo {
