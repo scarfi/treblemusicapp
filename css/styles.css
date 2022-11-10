@@ -211,6 +211,8 @@ li {
   text-decoration: none;
   font-size: 12px;
   line-height: 20px;
+  position: relative;
+  left: 10px;
   color: darkgrey;
 }
 
