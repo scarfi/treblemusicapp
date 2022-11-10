@@ -11,6 +11,7 @@ body {
 }
 
 .footer_logo {
+  float:right;
   position:relative;
   right:10px;
   bottom:10px;
