@@ -141,10 +141,6 @@ li {
   color: #fff;
   top: 50%;
   left: 50%;
-  position: absolute;
-  transform: translate(-50%, -50%)
-  box-sizing: border-box;
-  padding: 30px;
 }
 
 .avatar {
@@ -187,7 +183,7 @@ h1 {
   outline: none;
   height: 40px;
   background: fb2525;
-  color: #red;
+  color: #fff;
   font-size: 18px;
   border-radius: 20px;
 }
