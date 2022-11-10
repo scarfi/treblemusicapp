@@ -213,9 +213,8 @@ li {
   font-size: 12px;
   line-height: 20px;
   position: absolute;
-  top: 50%;
-  left: 50%
-  margin: auto;
+  left: 40px;
+  bottom: 10px;
   color: darkgrey;
 }
 
