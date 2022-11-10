@@ -87,7 +87,7 @@ footer {
 div.footer_logo {
   position:fixed
   bottom:2px;
-  right:2px;
+  left:2px;
 }
 
 h1 {
