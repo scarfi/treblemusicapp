@@ -150,8 +150,7 @@ li {
 .avatar {
   width: 125px;
   height: 125px;
-  border-radius: 50%;
-  position: relative;
+  position: absolute;
   top: -50%;
   left: calc(50%)
 }
