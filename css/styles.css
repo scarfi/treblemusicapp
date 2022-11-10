@@ -8,11 +8,11 @@ body {
   width: 90%;
   margin: 10 auto;
   padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 header {
   background: #55d6aa;
+  padding-bottom: 10px;
 }
 
 header::after {
