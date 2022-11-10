@@ -84,7 +84,7 @@ footer {
   width:100%;
 }
 
-div.footer_logo {
+.footer_logo {
   position:fixed
   bottom:2px;
   left:2px;
