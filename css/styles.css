@@ -130,8 +130,8 @@ li {
   margin: 0;
   padding: 0;
   background-image: url(../assets/site_background.png);
-  background-size: cover;
   background-position: center;
+  background-size: auto;
   font-family: sans-serif;
 }
 .loginbox {
