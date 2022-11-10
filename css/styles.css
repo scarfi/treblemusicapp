@@ -91,14 +91,14 @@ nav.footer_links {
 nav.footer_links ul {
   margin: 0;
   padding: 0;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
   list-style: none;
 }
 
 nav.footer_links li {
   display: inline-block;
   margin-left: 70px;
-  padding-top: 23px;
+  padding-bot: 23px;
 
   position: relative;
 
