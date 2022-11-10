@@ -181,7 +181,7 @@ li {
 }
 .loginbox input[type="text"], input[type="password"] {
   border: none;
-  border-bottom: : 1px solid grey;
+  border-bottom: 1px solid grey;
   background: transparent;
   margin-left: 28px;
   outline: none;
