@@ -11,10 +11,9 @@ body {
 }
 
 .footer_logo {
-  display: inline-block;
   position:relative;
   right:10px;
-  bottom:0px;
+  bottom:10px;
 }
 
 header {
