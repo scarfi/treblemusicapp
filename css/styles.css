@@ -150,6 +150,7 @@ li {
 .avatar {
   width: 100px;
   height: 100px;
+  color: red;
   border-radius: 50%;
   position: absolute;
   top: -50%;
