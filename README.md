@@ -26,7 +26,7 @@ Site Structure:
         * Paired up with potential building blocks to contribute to
     * Voting on contributions
     * Reward and ranking system for contributors (giveaways etc.)
-4. Song-Sharing
+4. Sharing
     * Upload final or near final songs you have written
         * Either independently or
         * Through collaboration functionality
@@ -38,10 +38,22 @@ Site Structure:
     * Independent producers can potentially be paid to finalize demos and upload mastered versions
     * Producers get ranking based on history and voting system for listeners
     * Unless completing contract without pay, only one producer should be working on a demo at a time (if not charging, but building portfolio and ranking, multiple can work on contract)
-6. Forums and FAQs
+6. Rehearse
+    * Find local rehearsal spaces and include friends or bandmates on reservation
+    * Compare prices, availability, locations, sizes etc
+    * Direct booking software
+7. Record
+    * Find local recording studios, sound engineers, and include friends or bandmates on reservation
+    * Compare prices, availability, locations, sizes etc
+    * Direct booking software
+8. Forums, Chatrooms and FAQs
     * Misc music forums and chat-rooms (reddit style)
     * Sharing platform for experienced musicians, songwriters, and producers, to engage with learning audience, or to advertise gigs, network etc.
-7. My Profile
+9. Chat (Friends and Collaborators)
+    * Friends list can message and video chat directly
+    * Other users can request chat (like IG) or request to be added to friend list
+    * Collaborators put into separate list by project
+10. My Profile
     * Manage listener profile
     * Manage songwriter profile
     * Manage musican profile
