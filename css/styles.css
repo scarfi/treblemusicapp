@@ -92,9 +92,12 @@ nav.footer_links ul {
   margin: 0;
   padding: 0;
   padding-bottom: 10px;
-  text-decoration:none;
   list-style: none;
 }
+
+nav.footer_links a {
+     text-decoration:none;
+   }
 
 nav.footer_links li {
   display: inline-block;
