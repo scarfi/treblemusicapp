@@ -200,7 +200,6 @@ li {
   border-radius: 20px;
 }
 .loginbox input[type="submit"]:hover {
-  curser: pointer;
   background: #ffc107;
   color: #000;
 }
