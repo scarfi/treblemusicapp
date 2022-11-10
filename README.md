@@ -53,7 +53,8 @@ Site Structure:
     * Friends list can message and video chat directly
     * Other users can request chat (like IG) or request to be added to friend list
     * Collaborators put into separate list by project
-10. My Profile
+10. Notifications
+11. My Profile
     * Manage listener profile
     * Manage songwriter profile
     * Manage musican profile
