@@ -212,7 +212,7 @@ li {
   text-decoration: none;
   font-size: 12px;
   line-height: 20px;
-  position: relative;
+  position: absolute;
   left: 28px;
   bottom: 10px;
   color: darkgrey;
