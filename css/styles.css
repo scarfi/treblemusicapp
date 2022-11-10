@@ -13,6 +13,7 @@ body {
 header {
   background: linear-gradient(fuchsia, turquoise);
   padding-bottom: 10px;
+  padding-left: 10px;
 }
 
 header::after {
@@ -23,7 +24,6 @@ header::after {
 
 .logo {
   float: left;
-  padding-left: 25px 25;
   padding-top: 25px 25;
 }
 
