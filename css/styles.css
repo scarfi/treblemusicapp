@@ -96,8 +96,8 @@ nav.footer_links ul {
 }
 
 nav.footer_links li {
-  display: inline-table;
-  margin-right: 30px;
+  display: inline-block;
+  margin-right: 10px;
   padding-bot: 23px;
 
   position: relative;
