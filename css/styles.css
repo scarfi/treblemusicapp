@@ -162,7 +162,7 @@ li {
 
 .loginheader {
   margin: 0;
-  margin-top: 55px;
+  margin-top: 65px;
   padding: 0 0 75px;
   text-align: center;
   font-size: 22px;
@@ -196,7 +196,6 @@ li {
   width: 300px;
   position: relative;
   left: 10px;
-  bottom: 30;
   background: white;
   color: black;
   font-size: 18px;
