@@ -28,18 +28,18 @@ header::after {
   clear: both;
 }
 
-nav {
+nav.menu {
   float: right;
 }
 
-nav ul {
+nav.menu ul {
   margin: 0;
   padding: 0;
   padding-top: 10px;
   list-style: none;
 }
 
-nav li {
+nav.menu li {
   display: inline-block;
   margin-left: 70px;
   padding-top: 23px;
@@ -47,17 +47,17 @@ nav li {
   position: relative;
 }
 
-nav a {
+nav.menu a {
   color: #000;
   text-decoration: none;
   text-transform: uppercase;
 }
 
-nav a:hover {
+nav.menu a:hover {
   color: #000;
 }
 
-nav a::before {
+nav.menu a::before {
   content:'';
   display: block;
   height: 5px;
@@ -71,7 +71,7 @@ nav a::before {
   transition: all ease-in-out 250ms;
 }
 
-nav a:hover::before {
+nav.menu a:hover::before {
   width: 100%
 }
 
@@ -84,11 +84,24 @@ footer {
   width:100%;
 }
 
-.footer_logo {
-  position:fixed
-  bottom:2px;
-  left:2px;
-  width:100;
+nav.footer_links {
+  float: right;
+}
+
+nav.footer_links ul {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 10px;
+  list-style: none;
+}
+
+nav.footer_links li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+
+  position: relative;
+
 }
 
 h1 {
