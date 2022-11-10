@@ -191,7 +191,8 @@ li {
   border: none;
   outline: none;
   height: 40px;
-  width: 80px;
+  width: 400px;
+  posotion: center;
   background: white;
   color: black;
   font-size: 18px;
