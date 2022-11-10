@@ -84,12 +84,10 @@ footer {
   width:100%;
 }
 
-
-.footer_logo {
-  float:right;
-  position:relative;
-  right:10px;
-  bottom:10px;
+div.footer_logo {
+  position:fixed
+  bottom:2px;
+  right:2px;
 }
 
 h1 {
