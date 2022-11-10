@@ -13,6 +13,7 @@ body {
 .footer_logo {
   float: right;
   padding-right: 10px;
+  padding-bottom: 25px;
 }
 
 header {
