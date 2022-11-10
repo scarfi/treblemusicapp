@@ -11,8 +11,7 @@ body {
 }
 
 .footer_logo {
-  style="display: inline-block;
-  position:fixed;
+  position:relative;
   right:10px;
   bottom:-15px;
 }
