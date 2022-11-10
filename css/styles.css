@@ -162,9 +162,8 @@ li {
 
 .loginheader {
   margin: 0;
-  margin-top: 65px;
+  margin-top: 60px;
   padding: 0 0 75px;
-  margin-left: 28px;
   text-align: center;
   font-size: 22px;
 }
@@ -184,6 +183,7 @@ li {
   border: none;
   border-bottom: : 1px solid #fff;
   background: transparent;
+  margin-left: 28px;
   outline: none;
   height: 40px;
   color: #fff;
@@ -212,6 +212,7 @@ li {
   font-size: 12px;
   line-height: 20px;
   position: relative;
+  left: 28px;
   bottom: 10px;
   color: darkgrey;
 }
