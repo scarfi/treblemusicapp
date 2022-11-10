@@ -11,10 +11,11 @@ body {
 }
 
 .footer_logo {
-  position:fixed;
-  right:10px;
-  bottom:-15px;
   display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+
+  position: relative;
 }
 
 header {
