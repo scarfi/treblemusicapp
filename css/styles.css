@@ -139,13 +139,17 @@ li {
   height: 420px;
   background: #000;
   color: #fff;
-  position:center;
+  position:absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
 }
 
 .avatar {
   width: 125px;
   height: 125px;
-  color: red;
   border-radius: 50%;
   position: relative;
   top: -50%;
