@@ -169,8 +169,8 @@ li {
 }
 
 .loginbox p {
-  margin: 0;
-  padding: 0;
+  position: relative;
+  left: 10px;
   font-weight: bold;
 }
 
