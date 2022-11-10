@@ -192,7 +192,7 @@ li {
   outline: none;
   height: 40px;
   width: 300px;
-  posotion: center;
+  posotion: relative;
   background: white;
   color: black;
   font-size: 18px;
