@@ -125,9 +125,6 @@ li {
 
 .uploadbutton {
   margin-left: 25px;
-}
-
-.uploadbutton button:hover {
   cursor: pointer;
 }
 
