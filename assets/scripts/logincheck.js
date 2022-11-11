@@ -1,15 +1,14 @@
 function validate()
 {
-  var username=document.getElementByID("username").value;
-  var password=document.getElementByID("password").value;
-  if (username=="brbiamafk"&& password=="Peepeepoopoo69!")
-{
-      alert("Login successful");
-      return false;
+    if(document.getElementById("username").value == "brbiamafk"
+       && document.getElementById("password").value == "Peepeepoopoo69!" )
+    {
+        alert("Login successful.");
+        location.href="myprofile.html";
+    }
+    else
+    {
+        alert( "Incorrect login credentials." );
+    }
 }
-else
-{
-      alert("Incorrect username or password. Login failed");
-
-}
-}
+</script>
