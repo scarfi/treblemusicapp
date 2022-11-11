@@ -129,7 +129,7 @@ li {
 
 input[type="file"]::file-selector-button:hover {
   cursor: pointer;
-  background-color: grey;
+  background-color: lightgrey;
   border: 2px solid black;
 }
 
