@@ -130,7 +130,7 @@ li {
 input[type="file"]::file-selector-button:hover {
   cursor: pointer;
   background-color: lightgrey;
-  border: 2px solid darkgrey;
+  border: 1px solid darkgrey;
 }
 
 .audiospacing {
