@@ -11,4 +11,3 @@ function validate()
         alert( "Incorrect login credentials." );
     }
 }
-</script>
