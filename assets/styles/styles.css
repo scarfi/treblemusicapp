@@ -127,6 +127,12 @@ li {
   margin-left: 25px;
 }
 
+.uploadbutton input[type="file"]:hover {
+  cursor:pointer;
+  background: #dark grey;
+  color: #000;
+}
+
 .audiospacing {
   margin-left: 25px;
 }
@@ -203,6 +209,7 @@ li {
   font-size: 18px;
   border-radius: 20px;
 }
+
 .loginbox input[type="submit"]:hover {
   cursor:pointer;
   background: #ffc107;
