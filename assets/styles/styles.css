@@ -128,7 +128,7 @@ li {
 }
 
 .uploadbutton button:hover {
-  color: dark grey;
+  cursor: pointer;
 }
 
 .audiospacing {
