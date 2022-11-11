@@ -130,7 +130,7 @@ li {
 .loginback {
   margin: 0;
   padding: 0;
-  background-image: url(../assets/site_background.png);
+  background-image: url(../images/site_background.png);
   background-position:top;
   background-size: cover;
   font-family: sans-serif;
