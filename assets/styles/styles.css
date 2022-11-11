@@ -127,7 +127,7 @@ li {
   margin-left: 25px;
 }
 
-.uploadbutton input[type="submit"]:hover {
+.uploadbutton input[type="button"]:hover {
   cursor: pointer;
 }
 
