@@ -1,1 +1,0 @@
-[{"type":"http","id":"http","command":"echo hello world","test_event":"","settings":{"path":"/"}}]
