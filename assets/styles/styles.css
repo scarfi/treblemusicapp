@@ -78,7 +78,7 @@ nav.menu a:hover::before {
   width: 100%
 }
 
-#footercontainer {
+.footer {
   background: #ffd966;
   position:fixed;
   left:0px;
@@ -87,20 +87,20 @@ nav.menu a:hover::before {
   width:100%;
 }
 
-#footercontainer.nav {
+.footer.nav {
   float: right;
   padding-right: 15px;
 }
 
-#footercontainer.nav ul {
+.footer.nav ul {
   list-style: none;
 }
 
-#footercontainer.nav a {
+.footer.nav a {
      text-decoration:none;
    }
 
-#footercontainer.nav li {
+.footer.nav li {
   display: inline-block;
   margin-right: 2px;
   margin-top: 10px;
@@ -158,8 +158,6 @@ button:hover {
   height: 420px;
   background: #000;
   color: white;
-  display:flex; 
-  flex: 1 1 auto;
   align-items:center; 
   justify-content:center;
 }
@@ -170,8 +168,6 @@ button:hover {
 }
 
 .loginheader {
-  margin-top: 70px;
-  margin-bottom: 35px;
   text-align: center;
   font-size: 22px;
 }
@@ -191,7 +187,6 @@ button:hover {
   border: none;
   border-bottom: 1px solid grey;
   background: transparent;
-  margin-left: 28px;
   outline: none;
   height: 40px;
   width: 262px;
@@ -201,10 +196,7 @@ button:hover {
 .loginbox input[type="submit"] {
   border: none;
   outline: none;
-  height: 40px;
-  width: 262px;
   position: relative;
-  left: 28px;
   background: white;
   color: black;
   font-size: 18px;
@@ -222,7 +214,6 @@ button:hover {
   font-size: 12px;
   line-height: 20px;
   position: relative;
-  left: 28px;
   bottom: 10px;
   color: darkgrey;
 }
