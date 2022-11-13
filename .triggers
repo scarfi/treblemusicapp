@@ -1,1 +1,1 @@
-[{"type":"http","id":"http","command":"echo hello world","test_event":"","settings":{"path":"/"}}]
+[{"type":"deploy","id":"deploy treble","command":"flask  --app backend/app run --host 0.0.0.0 --port 8080","test_event":"","settings":{"port":"8080"}}]
