@@ -167,7 +167,7 @@ button:hover {
   height: 125px;
   position: absolute;
   top: -15%;
-  left: 30%;
+  margin: auto;
 }
 
 .loginheader {
