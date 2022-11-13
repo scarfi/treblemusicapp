@@ -140,7 +140,7 @@ button:hover {
   margin-left: 25px;
 }
 
-.loginback {
+.loginbackground {
   margin: 0;
   padding: 0;
   background-image: url(../images/site_background.png);
@@ -171,21 +171,17 @@ button:hover {
 }
 
 .loginheader {
-  margin: 0;
   margin-top: 70px;
-  padding: 0 0 35px;
+  margin-bottom: 35px;
   text-align: center;
   font-size: 22px;
 }
 
-.loginbox p {
+.logininput {
   margin: 0;
   margin-left: 28px;
   padding: 0;
   font-weight: bold;
-}
-
-.loginbox input {
   width: 100%;
   margin-bottom: 20px;
 }
