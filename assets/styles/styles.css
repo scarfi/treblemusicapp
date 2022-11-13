@@ -59,7 +59,7 @@ nav.menu a:hover {
 }
 
 nav.menu a::before {
-  content:'';
+  content: '';
   display: block;
   height: 5px;
   width: 100%;
@@ -78,11 +78,11 @@ nav.menu a:hover::before {
 
 footer {
   background: #ffd966;
-  position:fixed;
-  left:0px;
-  bottom:0px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
   height: 50px;
-  width:100%;
+  width: 100%;
 }
 
 nav.footer_links {
@@ -95,8 +95,8 @@ nav.footer_links ul {
 }
 
 nav.footer_links a {
-     text-decoration:none;
-   }
+  text-decoration: none;
+}
 
 nav.footer_links li {
   display: inline-block;
@@ -109,6 +109,7 @@ nav.footer_links li {
 
 h1 {
   margin-left: 25px;
+  text-align: center;
 }
 
 h4 {
@@ -143,7 +144,7 @@ button:hover {
   margin: 0;
   padding: 0;
   background-image: url(../images/site_background.png);
-  background-position:top;
+  background-position: top;
   background-size: cover;
   font-family: sans-serif;
 }
@@ -153,7 +154,7 @@ button:hover {
   height: 420px;
   background: #000;
   color: white;
-  position:absolute;
+  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
@@ -188,7 +189,9 @@ button:hover {
   width: 100%;
   margin-bottom: 20px;
 }
-.loginbox input[type="text"], input[type="password"] {
+
+.loginbox input[type="text"],
+input[type="password"] {
   border: none;
   border-bottom: 1px solid grey;
   background: transparent;
@@ -199,6 +202,7 @@ button:hover {
   color: #fff;
   font: 16px;
 }
+
 .loginbox input[type="submit"] {
   border: none;
   outline: none;
@@ -213,7 +217,7 @@ button:hover {
 }
 
 .loginbox input[type="submit"]:hover {
-  cursor:pointer;
+  cursor: pointer;
   background: #ffc107;
   color: #000;
 }
